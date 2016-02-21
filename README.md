@@ -13,7 +13,7 @@ and are not encouraging you to drink.
 
 **(2 points each, 10 points total)**
 
-You will be using the same subset of the Iowa Liquor Dataset from [hw0](../hw0/README.md) and 
+You will be using the same subset of the Iowa Liquor Dataset from [hw0](https://github.com/w4111/hw0/blob/master/README.md) and 
 writing some Python programs to perform data analysis to understand transaction and inventory information.
 
 You will write your code in [`hw2.py`](./hw2.py) found in this same directory.  

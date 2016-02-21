@@ -93,7 +93,7 @@ Express the results for the relational algebra expressions:
 1. T2 × π<sub>A</sub>(T2)
 1. T1 ⨝<sub>T1.C=T2.D</sub> T2 
 1. T1 − (T1 − T2)
-1. T1 /  π<sub>B</sub>(T2)
+1. (removed please ignore)
 1. T1 ⨝ (σ<sub>D=x</sub>(T2))
 
 

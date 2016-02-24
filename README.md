@@ -100,7 +100,7 @@ Express the results for the relational algebra expressions:
 
 # Submission
 
-Submit through [courseworks](https://courseworks.columbia.edu/portal/site/COMSW4111_001_2015_3)
+Submit through [courseworks](https://courseworks2.columbia.edu/courses/6866/assignments/27330)
 
 1. Submit `hw2.py` for part 1
 1. Submit a text file/pdf for part 2 and part 3 

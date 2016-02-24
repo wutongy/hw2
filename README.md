@@ -54,7 +54,7 @@ Run the program with:
         liquors(<u>lid</u>, name, price, manufacturer)
         sales(<u>month</u>, <u>seller</u>, <u>liquors</u>, county, quantity)
 
-Given the simplified schema above (primary keys are surrounded by &lt;u> &lt;/u> tags), construct relational algebra for the following queries. Note: sales(liquors) references liquors(lid).
+Given the simplified schema above (primary keys are surrounded by &lt;u> &lt;/u> tags), construct relational algebra for the following queries. Note: sales(liquors) references liquors(lid), and month is a text field (due to ambiguity in a previous version, we will accept any unambiguous type).
 
 * **Q1**: Find the names of liquors that had at least one sale in both "Polk" and "Linn" counties for the month of December.
 

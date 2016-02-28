@@ -14,10 +14,9 @@ and are not encouraging you to drink.
 **(2 points each, 10 points total)**
 
 You will be using the same subset of the Iowa Liquor Dataset from [hw0](https://github.com/w4111/hw0/blob/master/README.md) and 
-writing some Python programs to perform data analysis to understand transaction and inventory information.
+writing some Python functions to understand transaction and inventory information.
 
-You will write your code in [`hw2.py`](./hw2.py) found in this same directory.  
-This file contains predefined methods such as [`def q1()`](./hw2.py#L22) with dummy method bodies that you
+You will write your code in [`hw2.py`](./hw2.py) found in this same directory. This file contains predefined methods such as [`def q1()`](./hw2.py#L22) with dummy method bodies that you
 will fill in to answer the corresponding questions below.
 We have also included a [`load_data()`](./hw2.py#L9) function so you can pass in the file path to the dataset 
 and it will read the file and return a python `list`.  Try running it and printing the first couple of 
@@ -30,10 +29,13 @@ Run the program with:
 
 ### Questions To Answer
 
+*NOTE*: In all cases, we expect string comparisons to be case sensitive and match exactly. That means the SQL strings 'hello world', 'Hello World', and 'hello world!' are all different.
+
+
 * **Q1**: How many distinct types of items (by `description` attribute) are in this dataset?
   * `q1()` should return a single number.
 
-* **Q2**: How many distinct `vendor`s (by exact string comparison) are in this dataset?
+* **Q2**: How many distinct `vendor`s are in this dataset?
   * `q2()` should return a single number.
 
 * **Q3**: Which `store` had the most sales (in terms of total `bottle_qty`)?

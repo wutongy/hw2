@@ -9,6 +9,12 @@ We want to emphasize that we have picked this dataset for educational purposes
 and are not encouraging you to drink.
 
 
+# Solutions
+
+* [Q1: `hw2_solutions.py`](./hw2_solutions.py)
+* [Q2 and Q3: `hw2_solutions.pdf`](./hw2_solutions.pdf)
+
+
 # 1. Analyze some data
 
 **(2 points each, 10 points total)**
